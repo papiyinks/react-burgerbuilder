@@ -32,7 +32,7 @@ class OrderSummary extends Component {
           CANCEL
         </Button>
         <Button btnType="Success" clicked={this.props.purchaseContinued}>
-          CONTINUEs
+          CONTINUE
         </Button>
       </Aux>
     );
